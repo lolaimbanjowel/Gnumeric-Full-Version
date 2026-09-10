@@ -238,3 +238,6 @@ This repository serves as the official landing page for Gnumeric. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Gnumeric today!**
+
+---
+**Last updated:** 2026-09-10 10:33:35 UTC
