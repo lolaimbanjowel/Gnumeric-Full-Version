@@ -240,4 +240,4 @@ This repository serves as the official landing page for Gnumeric. The software i
 **Get the most recent version of Gnumeric today!**
 
 ---
-**Last updated:** 2026-11-05 22:30:27 UTC
+**Last updated:** 2026-11-06 03:06:58 UTC
